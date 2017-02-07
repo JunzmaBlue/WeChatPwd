@@ -1,6 +1,5 @@
-#仿微信支付密码
 ### GitHub（提供demo及library源码）
-> [https://github.com/KungFuBrother/WeChatPwd](https://github.com/KungFuBrother/WeChatPwd)
+> [https://github.com/smartown/WeChatPwd](https://github.com/smartown/WeChatPwd)
 
 ### 项目简介
 > 仿微信支付密码输入控件，包含数字密码输入键盘和密码显示控件两部分
@@ -29,9 +28,9 @@
         //显示类型，支持密码、明文，默认明文
         private int showType;
 
-- 具体实现详见[GitHub](https://github.com/KungFuBrother/WeChatPwd)源码
+- 具体实现详见[GitHub](https://github.com/smartown/WeChatPwd)源码
 
 ### 效果展示
 微信|密码输入|明文输入
 ---|---|---
-![wechat.png](./image/wechat.png)|![密码.gif](./image/密码.gif)|![明文.gif](./image/明文.gif)
+![wechat](http://upload-images.jianshu.io/upload_images/1951791-43b55f04abd72bb9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/438)|![密码.gif](http://upload-images.jianshu.io/upload_images/1951791-0a6a13e97fcf8255.gif?imageMogr2/auto-orient/strip)|![明文.gif](http://upload-images.jianshu.io/upload_images/1951791-81fb566235a9dc9c.gif?imageMogr2/auto-orient/strip)
